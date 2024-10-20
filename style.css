@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    height: auto;
+    background-color:cornflowerblue;
+}
+
+.flag {
+    padding: 200px;
+    padding-left: 400px;
+}
+
+.stripes {
+    width: 800px;
+    height: 800px; 
+}
+
+.stars {
+    width: 350px;
+    height: 210px;
+    position: absolute;
+}
+
+
+.red{
+    height: 30px;
+    background-color: red;
+    color: red;
+}
+
+.white {
+    height: 30px;
+    background-color: white;
+    color: white;
+}
+
+
+
